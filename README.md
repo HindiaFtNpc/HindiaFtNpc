@@ -6,7 +6,7 @@
 ---------
 
 <p align="center">
-  <a href="https://github.com/CupMenolakMcy"><img src="https://cardivo.vercel.app/api?name=YusupKakuu&description=Hi,%20Im%20Npnpicyy%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/7054776514c7093a2ca78.png/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=yusupk_.&github=CupMenolakMcy&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/CupMenolakMcy"><img src="https://cardivo.vercel.app/api?name=YusupKakuu&description=Hi,%20Im%20Npnpicyy%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/7054776514c7093a2ca78.png/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=yusupk_.&github=HindiaFtNpc&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <p align="center">
