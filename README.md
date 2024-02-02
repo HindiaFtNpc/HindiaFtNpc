@@ -6,10 +6,6 @@
 ---------
 
 <p align="center">
-  <a href="https://github.com/CupMenolakMcy"><img src="https://cardivo.vercel.app/api?name=YusupKakuu&description=Hi,%20Im%20Npnpicyy%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/d8c61365e04b2da52871a.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=yusupk_.&github=HindiaFtNpc&pattern=leaf&colorPattern=%23eaeaea" /><a>
-</p>
-
-<p align="center">
 <a href="https://youtube.com/@YUSUP909"><img alt="Cute Count" src="https://count.getloli.com/get/@HindiaFtNpc?theme=rule34"/></a>
 </p>
 
