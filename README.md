@@ -20,4 +20,5 @@
 
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31clwo7edqwwy7heid576bz6xuue&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31clwo7edqwwy7heid576bz6xuue&width=700" />
 </p>
