@@ -16,20 +16,14 @@
 ------
 
 <p align="center">
-  <a href="https://github.com/CupMenolakMcy"><img src="https://github-readme-stats.vercel.app/api?username=HindiaFtNpc&theme=tokyonight&show_icons=true" /></a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HindiaFtNpc&theme=dracula" />
   <a href="https://github.com/HindiaFtNpc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HindiaFtNpc&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-  </a>
-  </a>
 </p>
 
 ------
 
 <p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31clwo7edqwwy7heid576bz6xuue&width=700" />
-</p>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31clwo7edqwwy7heid576bz6xuue&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31jlxhrwmfioxnorylcazb44ifwy&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
 </p>
 
 ------
