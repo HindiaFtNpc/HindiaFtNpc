@@ -13,7 +13,6 @@
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HindiaFtNpc&theme=dracula" />
-  <a href="https://github.com/HindiaFtNpc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HindiaFtNpc&theme=midnight-purple&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
 ------
