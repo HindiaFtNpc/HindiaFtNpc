@@ -7,8 +7,11 @@
 
 <p align="center">
 <a href="https://youtube.com/@YUSUP909"><img alt="Cute Count" src="https://count.getloli.com/get/@HindiaFtNpc?theme=rule34"/>
-  <a href="https://discord.com/invite/aZwYcWmpzD"><img alt="Discord" src="https://discord.c99.nl/widget/theme-1/722687501298434099.png"/>
 </p>
+
+<p align="center">
+  <a href="https://discord.com/invite/aZwYcWmpzD"><img alt="Discord" src="https://discord.c99.nl/widget/theme-1/722687501298434099.png"/>
+</a>
 
 ------
 
